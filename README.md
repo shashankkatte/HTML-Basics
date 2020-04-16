@@ -1,2 +1,2 @@
-# HTML_Basics
-This repo will help explore the basics of HTML
+# HTML Basics
+This repo helps explore the basics of HTML
